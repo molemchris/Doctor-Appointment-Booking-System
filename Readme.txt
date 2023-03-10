@@ -16,8 +16,8 @@ How to run the Doctor Appointment Management System Project Using PHP and MySQL
 
 Doctor Login
 
-Username: anu@gmail.com
+Username: valery@gmail.com
 
-Password: Test@123
+Password: Valery@34
 
 Or Register a new user.
